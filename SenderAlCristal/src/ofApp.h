@@ -33,5 +33,5 @@ class ofApp : public ofBaseApp{
     ofxOscSender sender;
     
     ofVideoPlayer         video;
-    ofColor data2send[4][5];
+    ofColor data2send[25][4];
 };

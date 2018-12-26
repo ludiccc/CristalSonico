@@ -20,7 +20,7 @@
 				<key>name</key>
 				<string>NetworkingUtils.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/NetworkingUtils.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/NetworkingUtils.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -42,7 +42,7 @@
 				<key>name</key>
 				<string>IpEndpointName.cpp</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.cpp</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -57,7 +57,7 @@
 				<key>name</key>
 				<string>IpEndpointName.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -72,7 +72,7 @@
 				<key>name</key>
 				<string>PacketListener.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/PacketListener.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/PacketListener.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -87,7 +87,7 @@
 				<key>name</key>
 				<string>TimerListener.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/TimerListener.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/TimerListener.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -102,7 +102,7 @@
 				<key>name</key>
 				<string>UdpSocket.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/UdpSocket.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/UdpSocket.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -124,7 +124,7 @@
 				<key>name</key>
 				<string>UdpSocket.cpp</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix/UdpSocket.cpp</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix/UdpSocket.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -179,7 +179,7 @@
 				<key>name</key>
 				<string>NetworkingUtils.cpp</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix/NetworkingUtils.cpp</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix/NetworkingUtils.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -194,7 +194,7 @@
 				<key>name</key>
 				<string>OscTypes.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -209,7 +209,7 @@
 				<key>name</key>
 				<string>OscReceivedElements.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscReceivedElements.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscReceivedElements.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -231,7 +231,7 @@
 				<key>name</key>
 				<string>OscPrintReceivedElements.cpp</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscPrintReceivedElements.cpp</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscPrintReceivedElements.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -253,7 +253,7 @@
 				<key>name</key>
 				<string>OscReceivedElements.cpp</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscReceivedElements.cpp</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscReceivedElements.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -268,7 +268,7 @@
 				<key>name</key>
 				<string>OscOutboundPacketStream.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscOutboundPacketStream.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscOutboundPacketStream.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -283,7 +283,7 @@
 				<key>name</key>
 				<string>OscException.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscException.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscException.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -298,7 +298,7 @@
 				<key>name</key>
 				<string>OscHostEndianness.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscHostEndianness.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscHostEndianness.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -313,7 +313,7 @@
 				<key>name</key>
 				<string>MessageMappingOscPacketListener.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/MessageMappingOscPacketListener.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/MessageMappingOscPacketListener.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -328,7 +328,7 @@
 				<key>name</key>
 				<string>OscPrintReceivedElements.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscPrintReceivedElements.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscPrintReceivedElements.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -350,7 +350,7 @@
 				<key>name</key>
 				<string>OscTypes.cpp</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.cpp</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -365,7 +365,7 @@
 				<key>name</key>
 				<string>OscPacketListener.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscPacketListener.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscPacketListener.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -451,7 +451,7 @@
 				<key>name</key>
 				<string>OscOutboundPacketStream.cpp</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscOutboundPacketStream.cpp</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscOutboundPacketStream.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -466,7 +466,7 @@
 				<key>name</key>
 				<string>ofxOscSender.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src/ofxOscSender.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/src/ofxOscSender.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -488,7 +488,7 @@
 				<key>name</key>
 				<string>ofxOscSender.cpp</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src/ofxOscSender.cpp</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/src/ofxOscSender.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -503,7 +503,7 @@
 				<key>name</key>
 				<string>ofxOscBundle.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src/ofxOscBundle.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/src/ofxOscBundle.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -518,7 +518,7 @@
 				<key>name</key>
 				<string>ofxOscMessage.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src/ofxOscMessage.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/src/ofxOscMessage.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -540,7 +540,7 @@
 				<key>name</key>
 				<string>ofxOscReceiver.cpp</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src/ofxOscReceiver.cpp</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/src/ofxOscReceiver.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -555,7 +555,7 @@
 				<key>name</key>
 				<string>ofxOscArg.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src/ofxOscArg.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/src/ofxOscArg.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -570,7 +570,7 @@
 				<key>name</key>
 				<string>ofxOscReceiver.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src/ofxOscReceiver.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/src/ofxOscReceiver.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -592,7 +592,7 @@
 				<key>name</key>
 				<string>ofxOscBundle.cpp</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src/ofxOscBundle.cpp</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/src/ofxOscBundle.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -607,7 +607,7 @@
 				<key>name</key>
 				<string>ofxOsc.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src/ofxOsc.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/src/ofxOsc.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -629,7 +629,7 @@
 				<key>name</key>
 				<string>ofxOscMessage.cpp</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src/ofxOscMessage.cpp</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/src/ofxOscMessage.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -651,7 +651,7 @@
 				<key>name</key>
 				<string>ofxOscParameterSync.cpp</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src/ofxOscParameterSync.cpp</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/src/ofxOscParameterSync.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -704,7 +704,7 @@
 				<key>name</key>
 				<string>ofxOscParameterSync.h</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src/ofxOscParameterSync.h</string>
+				<string>../../../../openFrameworks/addons/ofxOsc/src/ofxOscParameterSync.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -839,14 +839,14 @@ fi
 					<array>
 						<string>$(OF_CORE_HEADERS)</string>
 						<string>src</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/win32</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/win32</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/src</string>
 					</array>
 					<key>CONFIGURATION_BUILD_DIR</key>
 					<string>$(SRCROOT)/bin/</string>
@@ -907,14 +907,14 @@ fi
 					<array>
 						<string>$(OF_CORE_HEADERS)</string>
 						<string>src</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/win32</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/win32</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/src</string>
 					</array>
 					<key>COMBINE_HIDPI_IMAGES</key>
 					<string>YES</string>
@@ -974,7 +974,7 @@ fi
 				<key>name</key>
 				<string>openFrameworksLib.xcodeproj</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj</string>
+				<string>../../../../openFrameworks/libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -1112,14 +1112,14 @@ fi
 					<array>
 						<string>$(OF_CORE_HEADERS)</string>
 						<string>src</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/win32</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/win32</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/src</string>
 					</array>
 					<key>CONFIGURATION_BUILD_DIR</key>
 					<string>$(SRCROOT)/bin/</string>
@@ -1178,14 +1178,14 @@ fi
 					<array>
 						<string>$(OF_CORE_HEADERS)</string>
 						<string>src</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/win32</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/win32</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/src</string>
 					</array>
 					<key>CONFIGURATION_BUILD_DIR</key>
 					<string>$(SRCROOT)/bin/</string>
@@ -1340,14 +1340,14 @@ fi
 					<array>
 						<string>$(OF_CORE_HEADERS)</string>
 						<string>src</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/win32</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/win32</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/src</string>
 					</array>
 					<key>COMBINE_HIDPI_IMAGES</key>
 					<string>YES</string>
@@ -1393,14 +1393,14 @@ fi
 					<array>
 						<string>$(OF_CORE_HEADERS)</string>
 						<string>src</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/win32</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc</string>
-						<string>../../../../../../../Users/federico/Development_local/openFrameworks/addons/ofxOsc/src</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/posix</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/win32</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/libs/oscpack/src/osc</string>
+						<string>../../../../openFrameworks/addons/ofxOsc/src</string>
 					</array>
 					<key>COMBINE_HIDPI_IMAGES</key>
 					<string>YES</string>
@@ -1576,7 +1576,7 @@ echo "$GCC_PREPROCESSOR_DEFINITIONS";
 				<key>name</key>
 				<string>CoreOF.xcconfig</string>
 				<key>path</key>
-				<string>../../../../../../../Users/federico/Development_local/openFrameworks/libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig</string>
+				<string>../../../../openFrameworks/libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>

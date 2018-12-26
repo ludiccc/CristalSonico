@@ -24,7 +24,7 @@ void Cristal::draw()
     ofSetColor(c);
     ofDrawRectangle(-12,-250,24,250);
     ofTranslate(0,0,-1);
-    ofSetColor(255);
+    ofSetColor(20);
     ofDrawRectangle(-12,-250,24,250);
     ofRotateYDeg(90);
     ofTranslate(ofVec3f(0,0,-12));

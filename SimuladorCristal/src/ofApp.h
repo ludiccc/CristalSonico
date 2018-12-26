@@ -4,8 +4,15 @@
 #include "cristal.hpp"
 #include "ofxOsc.h"
 
+#define MODULE_ALL      0
+#define MODULE_ELEMENT  1
+#define MODULE_ROW      2
+#define MODULE_COL      3
+#define MODULE_GROUP    4
+
 // listening port
 #define PORT 12345
+
 
 
 class ofApp : public ofBaseApp{
@@ -31,8 +38,12 @@ class ofApp : public ofBaseApp{
     bool bHelpText;
     ofLight light;
 
-    Cristal cristales[4][5];
+    Cristal cristales[5][4][5];
+    
+    void doCommand(string command, int module, int moduleidx, ofxOscMessage m);
 
     ofxOscReceiver receiver;
 
 };
+
+

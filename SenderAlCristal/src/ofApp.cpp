@@ -20,8 +20,8 @@ void ofApp::update(){
     if (video.isFrameNew()) {
     ofSetHexColor(0xffffff);
     
-        for (int i = 0; i < video.getWidth()-1; i+= video.getWidth() / 4){
-            for (int j = 0; j < video.getHeight()-1; j+= video.getHeight() / 5){
+        for (int i = 0; i < video.getWidth()-1; i+= video.getWidth() / 25){
+            for (int j = 0; j < video.getHeight()-1; j+= video.getHeight() / 4){
                 ofVec3f colSum(0,0,0);
                 float lighness = 0;
                 colSum += ofVec3f(pixelsRef.getColor(i-1,j-1).r,pixelsRef.getColor(i-1,j-1).b,pixelsRef.getColor(i-1,j-1).b);
@@ -35,37 +35,42 @@ void ofApp::update(){
                 colSum += ofVec3f(pixelsRef.getColor(i+1,j+1).r,pixelsRef.getColor(i-1,j-1).b,pixelsRef.getColor(i-1,j-1).b);
                 // get the pixel and its lightness (lightness is the average of its RGB values)
                 colSum /= 9;
-                int i2 = i/(video.getWidth()/4);
-                int j2 = j/(video.getHeight()/5);
+                int i2 = i/(video.getWidth()/25);
+                int j2 = j/(video.getHeight()/4);
                 data2send[i2][j2]  = ofColor(colSum.x, colSum.y, colSum.z);
                 
             }
         }
         
         
-        for (int i = 0; i < 4; i++) {
-            for (int j = 0; j < 5; j++) {
-                ofxOscMessage m;
-                string address;
-                address = "/setColor/0/element/";
-                address.append(std::to_string(i*4+j));
-                address.append("/");
-                m.setAddress(address);
-                m.addIntArg(data2send[i][j].r);
-                m.addIntArg(data2send[i][j].g);
-                m.addIntArg(data2send[i][j].b);
-                sender.sendMessage(m, false);
-                
-                address.append("/setPosition/0/element/");
-                address.append(std::to_string(i*4+j));
-                address.append("/");
-                m.setAddress(address);
-                m.addFloatArg(data2send[i][j].getLightness());
-                sender.sendMessage(m, false);
+        for (int q = 0; q < 5; q++) {
+            for (int i = 0; i < 5; i++) {
+                for (int j = 0; j < 4; j++) {
+                    ofxOscMessage m;
+                    string address;
+                    address = "/setColor/";
+                    address.append(std::to_string(q));
+                    address.append("/element/");
+                    address.append(std::to_string(i*4+j));
+                    address.append("/");
+                    m.setAddress(address);
+                    m.addIntArg(data2send[i][j].r);
+                    m.addIntArg(data2send[i][j].g);
+                    m.addIntArg(data2send[i][j].b);
+                    sender.sendMessage(m, false);
+                    
+                    address.append("/setPosition/");
+                    address.append(std::to_string(q));
+                    address.append("/element/");
+                    address.append(std::to_string(i*4+j));
+                    address.append("/");
+                    m.setAddress(address);
+                    m.addFloatArg(data2send[i][j].getLightness());
+                    sender.sendMessage(m, false);
 
+                }
             }
         }
-        
     }
     
     
@@ -78,8 +83,8 @@ void ofApp::draw(){
         ofDrawLine(0, ofMap(i,0,20,0,ofGetHeight()), ofGetWidth(), ofMap(i,0,20,0,ofGetHeight()));
     }
     
-    for (int i = 0; i < 4; i++) {
-        for (int j = 0; j < 5; j++) {
+    for (int i = 0; i < 5; i++) {
+        for (int j = 0; j < 4; j++) {
             ofSetColor(data2send[i][j]);
             ofDrawRectangle(100+i*20,100+j*20, 20, 20);
         }
